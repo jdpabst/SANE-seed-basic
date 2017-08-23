@@ -5,21 +5,20 @@
     position: relative;
     ul{
         height: 30px;
-        width: 175px;
+        width: 170px;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
-        // border: 2px solid black;
         float: right;
         margin-top: 6px;
-        margin-right: 35px;
+        margin-right: 31px;
         li{
             color: #cbcccb;
             vertical-align: middle;
             line-height: 30px;
             font-family: "Open Sans", "Gill Sans", Arial, sans-serif;
             font-size: 11.25px;
-            font-weight: bold;
+            font-weight: 700;
             letter-spacing: 1.5px;
             img{
                 height: 15px;
