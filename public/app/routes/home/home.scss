@@ -234,5 +234,26 @@
             margin-right: auto;
             line-height: 24px;
         }
+        ul{
+            height: auto;
+            width: 100%;
+        }
+        div{
+            height: 375px;
+            width: 275px;
+            border: 1px solid darkgray;
+            background: white;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 5px;
+            img{
+                height: 184px;
+            }
+            .button{
+                height: 50px;
+                width: 150px;
+                border: 2px solid #FFFF6F;
+            }
+        }
     }
 }
