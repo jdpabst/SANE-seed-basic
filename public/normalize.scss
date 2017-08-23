@@ -431,4 +431,7 @@ h2, h3, h4, h5, h6, input, button, img, header,
 footer, main{
   box-sizing: border-box;
   z-index: 5;
+  list-style: none;
+  margin: 0;
+  padding: 0
 }
