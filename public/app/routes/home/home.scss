@@ -95,11 +95,12 @@
         }
     }
     #whats_this{
-        height: 500px;
+        height: 425px;
         width: 100%;
         background: #eef2f5;
         padding-top: 50px;
         padding-left: 35px;
+        border-bottom: 1px solid white;
         h2{
             color: #00979d;
             font-family: 'Oswald', sans-serif;
@@ -118,11 +119,12 @@
         p{
             font-size: 1em;
             color: #404040;
+            line-height: 1.5em;
             font-family: 'Karla', sans-serif;
-            padding-bottom: 20px;
+            padding-bottom: 30px;
         }
         ul{
-            width: 100%;
+            width: 325px;
             display: flex;
             flex-wrap: wrap;
             justify-content: space-around;
