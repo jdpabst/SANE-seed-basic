@@ -254,6 +254,26 @@
                 width: 150px;
                 border: 2px solid #FFFF6F;
             }
+            h2{
+                letter-spacing: 1px;
+                font-weight: 700;
+                font-size: 11px;
+                color: #646464;
+                text-align: left;
+                width: 232px;
+                margin-left: 20px;
+                margin-top: 15px;
+                padding-bottom: 10px;
+                border-bottom: 1px solid gray;
+                margin-bottom: 7px;
+            }
+            p{
+                color: #646464;
+                font-size: 0.9em;
+                text-align: left;
+                width: 250px;
+                margin-left: 20px;
+            }
         }
     }
 }
