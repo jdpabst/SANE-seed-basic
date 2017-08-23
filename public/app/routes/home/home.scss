@@ -1,11 +1,14 @@
 .home{
     width: 100%;
-    height: 500px;
-    border: 2px solid black;
+    height: auto;
+    // border: 2px solid black;
     #hero_area{
         background: url('./../../img/home-video.jpg') center no-repeat;
         background-size: cover;
-        height: 250px;
+        height: 700px;
         width: 100%;
+    }
+    #slogan{
+        border: 2px solid white;
     }
 }
