@@ -242,7 +242,7 @@
         div{
             height: 375px;
             width: 275px;
-            border: 1px solid darkgray;
+            border: 1px solid #cbcccb;
             background: white;
             margin-left: auto;
             margin-right: auto;
@@ -251,9 +251,15 @@
                 height: 184px;
             }
             .button{
-                height: 50px;
-                width: 150px;
-                border: 2px solid #FFFF6F;
+                height: 35px;
+                width: 145px;
+                border: 1px solid #cc9200;
+                text-align: center;
+                vertical-align: middle;
+                line-height: 35px;
+                font-size: 12px;
+                margin-top: 10px;
+                margin-left: 20px;
             }
             h2{
                 letter-spacing: 1px;
