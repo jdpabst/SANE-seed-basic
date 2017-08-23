@@ -98,11 +98,28 @@
         height: 500px;
         width: 100%;
         background: #eef2f5;
+        padding-top: 50px;
+        padding-left: 35px;
         h2{
             color: #00979d;
             font-family: 'Oswald', sans-serif;
             font-size: 1em;
             letter-spacing: 1px;
+            padding-bottom: 20px
+        }
+        h3{
+            color: #5c5c5c;
+            font-weight: 700;
+            line-height: 1.2em;
+            font-size: 2em;
+            font-family: 'Karla', sans-serif;
+            padding-bottom: 20px;
+        }
+        p{
+            font-size: 1em;
+            color: #404040;
+            font-family: 'Karla', sans-serif;
+            padding-bottom: 20px;
         }
     }
 }
