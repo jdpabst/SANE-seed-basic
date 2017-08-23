@@ -121,5 +121,35 @@
             font-family: 'Karla', sans-serif;
             padding-bottom: 20px;
         }
+        ul{
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            #button1{
+                border: 1px solid #cc9200;
+                height: 37px;
+                width: 150px;
+                text-align: center;
+                vertical-align: middle;
+                line-height: 37px;
+                // color: white;
+                font-size: 12px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            #button2{
+                background: #f0b200;
+                height: 37px;
+                width: 150px;
+                text-align: center;
+                vertical-align: middle;
+                line-height: 37px;
+                color: white;
+                font-size: 12px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
     }
 }
