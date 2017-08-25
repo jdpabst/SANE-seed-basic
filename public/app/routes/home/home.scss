@@ -347,6 +347,17 @@
             margin-left: auto;
             margin-right: auto;
             margin-top: 15px;
+            li{
+                
+                #button1{
+                    border: 1px solid yellow;
+                    height: 30px;
+                    width: 100px;
+                    text-align: center;
+                    vertical-align: middle;
+                    line-height: 50px;
+                }
+            }
         }
     }
 }
