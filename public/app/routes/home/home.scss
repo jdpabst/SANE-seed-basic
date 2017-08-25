@@ -340,7 +340,7 @@
         }
         ul{
             height: 50px;
-            width: 200px;
+            width: 290px;
             border: 2px dotted hotpink;
             display: flex;
             justify-content: space-around;
@@ -350,12 +350,24 @@
             li{
                 
                 #button1{
-                    border: 1px solid yellow;
+                    border: 1px solid #cc9200;
                     height: 30px;
-                    width: 100px;
+                    width: 130px;
                     text-align: center;
                     vertical-align: middle;
                     line-height: 30px;
+                    font-size: 11px;
+                }
+                #button2{
+                    border: 1px solid #f0b200;
+                    background: #f0b200;
+                    color: white;
+                    height: 30px;
+                    width: 130px;
+                    text-align: center;
+                    vertical-align: middle;
+                    line-height: 30px;
+                    font-size: 11px;
                 }
             }
         }
